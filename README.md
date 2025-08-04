@@ -1,2 +1,29 @@
-# .github
-Welcome to Zarco Development — a dynamic and innovative software development team focused on creating powerful, efficient, and user-friendly solutions.
+# Zarco Development
+
+Welcome to **Zarco Development** — a team dedicated to building powerful, user-friendly tools like Discord bots, web apps, and automation solutions.
+
+---
+
+## 📌 Get Started
+
+Explore our tools or contact us for custom development.
+
+---
+
+## 🌐 Connect
+
+- [GitHub](https://github.com/ZarcoDevelopment)  
+- [Zarco HQ - Discord](https://discord.gg/6YVmxA4Qsf)
+- [Zarco Development - Discord](- [Zarco HQ - Discord](https://discord.gg/6YVmxA4Qsf)  )  
+
+- [Fiverr](https://fiverr.com/ZarCodeX)
+
+---
+
+## 🤝 Contribute
+
+Open to issues, feedback & pull requests!
+
+---
+
+Thanks for checking out Zarco Development!
