@@ -14,7 +14,7 @@ Explore our tools or contact us for custom development.
 
 - [GitHub](https://github.com/ZarcoDevelopment)  
 - [Zarco HQ - Discord](https://discord.gg/6YVmxA4Qsf)
-- [Zarco Development - Discord](- [Zarco HQ - Discord](https://discord.gg/6YVmxA4Qsf)  )  
+- [Zarco Development - Discord](https://discord.gg/Ej7FCZB7RG)
 
 - [Fiverr](https://fiverr.com/ZarCodeX)
 
